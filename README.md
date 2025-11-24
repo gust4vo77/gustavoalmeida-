@@ -1,12 +1,13 @@
 # gustavoalmeida-
 # Ferramenta CLI para Automação ⚡
+👋 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia e inovação.  
+💻 Atualmente estou aprendendo e desenvolvendo projetos em **Java, Python, JavaScript e SQL**.  
+🚀 Meu objetivo é evoluir como desenvolvedor, explorando boas práticas de programação, arquitetura de software e soluções criativas para problemas reais.  
+📚 Aqui você encontrará exercícios, projetos acadêmicos e experimentos pessoais que refletem minha jornada de aprendizado.  
+🔗 Sempre aberto a colaborações e novas ideias!
 
-Uma aplicação de linha de comando criada em **Python** para automatizar tarefas repetitivas.  
-Funcionalidades principais:
-- 📂 Organização automática de arquivos
-- 🔄 Conversão de formatos (CSV, JSON, XML)
-- 🕒 Agendamento de rotinas
-
-## Objetivo
-Simplificar o dia a dia de desenvolvedores e analistas de dados.
-https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gust4vo77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust4vo77&layout=compact&langs_count=16&theme=dracula"/>
+</div>
